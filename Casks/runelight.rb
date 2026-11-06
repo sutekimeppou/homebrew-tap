@@ -1,6 +1,6 @@
 cask "runelight" do
-  version "0.1.0"
-  sha256 "90f2c2b2614d4c47d44f5ee0ca746aad52294841d13f9be7e641231ec3da3c77"
+  version "0.1.1"
+  sha256 "e6b523ca8e2ce1b3567576c3195df462d55b9d4481a53dc57c3593b73f02b5b1"
 
   url "https://github.com/sutekimeppou/runelight/releases/download/v#{version}/Runelight-#{version}-arm64.zip"
   name "Runelight"
